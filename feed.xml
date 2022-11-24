@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>小田</title>
+    <link href="http://tian.ryukiq.cn/feed.xml" rel="self" />
+    <link href="http://tian.ryukiq.cn" />
+    <updated>2022-11-24T15:47:23+08:00</updated>
+    <author>
+        <name>Ryuki</name>
+    </author>
+    <id>http://tian.ryukiq.cn</id>
+
+    <entry>
+        <title>小田Test</title>
+        <author>
+            <name>Ryuki</name>
+        </author>
+        <link href="http://tian.ryukiq.cn/xiao-tian-test/"/>
+        <id>http://tian.ryukiq.cn/xiao-tian-test/</id>
+        <media:content url="http://tian.ryukiq.cn/media/posts/1/20221002085926_e8ac2.jpg" medium="image" />
+
+        <updated>2022-11-24T15:47:23+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
