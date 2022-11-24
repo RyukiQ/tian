@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: http://tian.ryukiq.cn/sitemap.xml
+Disallow: /
